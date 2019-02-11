@@ -1,6 +1,6 @@
 # Building RESTful APIs with Node.js and Express Mini
 
-## Topics hi 
+## Topics hi .....
 
 - Building a RESTful API.
 - Performing CRUD operations.
